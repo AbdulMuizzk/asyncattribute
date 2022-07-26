@@ -1,0 +1,12 @@
+#content{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.heading{
+    color:rgb(160, 160, 246);
+}
+.educativelogo{
+    width: 100px;
+    height:100px;
+}
